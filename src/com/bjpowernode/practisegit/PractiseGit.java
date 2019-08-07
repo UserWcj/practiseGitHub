@@ -13,5 +13,6 @@ public class PractiseGit {
         System.out.println("面试成功！");
         System.out.println("已经入职！");
         System.out.println("加油！加油！");
+        System.out.println("后天准备开始上班996");
     }
 }
