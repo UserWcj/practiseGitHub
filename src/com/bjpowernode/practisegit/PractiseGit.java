@@ -10,6 +10,7 @@ package com.bjpowernode.practisegit;
  */
 public class PractiseGit {
     public static void main(String[] args) {
+        System.out.println("面试成功！");
         System.out.println("已经入职！");
     }
 }
