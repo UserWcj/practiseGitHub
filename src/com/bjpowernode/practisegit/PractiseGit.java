@@ -12,5 +12,6 @@ public class PractiseGit {
     public static void main(String[] args) {
         System.out.println("面试成功！");
         System.out.println("已经入职！");
+        System.out.println("后天准备开始上班996");
     }
 }
